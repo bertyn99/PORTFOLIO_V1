@@ -1468,13 +1468,13 @@ h3 {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url(../img/about/moi.jpg);
+ /*  background-image: url(../img/about/moi.png); */
   width: 724px;
-  height: 767px;
+  height: 764px;
   content: '';
 }
 
-@media (max-width: 767px) {
+@media (max-width: 764px) {
   /* line 74, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
   .slider_area .single_slider::before {
     width: 314px;
